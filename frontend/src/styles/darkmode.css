@@ -1,0 +1,37 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header, footer {
+    background-color: #1e1e1e;
+}
+
+a {
+    color: #bb86fc;
+}
+
+button {
+    background-color: #3700b3;
+    color: #ffffff;
+}
+
+input, textarea {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 1px solid #bb86fc;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+}
+
+.chart {
+    background-color: #1e1e1e;
+}
+
+.notification {
+    background-color: #1e1e1e;
+    border-left: 4px solid #bb86fc;
+}
